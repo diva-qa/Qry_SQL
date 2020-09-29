@@ -1,0 +1,1 @@
+SELECT ('FELIX'+'SENA'+'SILVA')
